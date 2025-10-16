@@ -25,5 +25,3 @@ Feel free to open issues or pull requests to suggest new patterns, report vulner
 
 This project is open source. See the LICENSE file for details.
 
----
-Copilot is powered by AI, so mistakes are possible. Leave a comment via the 👍 👎 to share your feedback and help improve the experience.
